@@ -1,5 +1,8 @@
 # Build an Emergency Response solution with Teams and SharePoint
 
+[![Video thumbnail](./Labs/images/videoThumbnail.png)](https://youtu.be/JaQSJsxOS0E)
+*Watch the presentation here*
+
 In this half day workshop, you will learn how to build solutions with Microsoft Teams and Microsoft SharePoint. In the process, you will build a simple Emergency Response Center which could be used to coordinate the response to an emergency such as a natural disaster. This could complement the [Crisis Communication Power App template](https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/), which helps to keep employees informed during a crisis; this solution is for the reponse team themselves.
 
 ![Completed solution](./Labs/images/Demo-Mashup.png)
@@ -16,6 +19,7 @@ To complete the hands-on portion of the lab, you will need:
 
  * A computer with a web browser and an Internet connection (a phone is too small to successfully construct the solution, though it is usable from a mobile device.)
  * A Microsoft 365 Developer subscription (get one free at [https://aka.ms/M365DeveloperProgram](https://developer.microsoft.com/microsoft-365/dev-program?WT.mc_id=M365-github-rogerman), or one will be provided for you by the workshop facilitator.)
+ * A Bing Maps API key
  * For the coding exercises, you will need to install development tools on your computer:
     * [Node Version Manager (nvm)](http://npm.github.io/installation-setup-docs/installing/using-a-node-version-manager.html) (optional but recommended to allow switching Node versions)
     * [Node.js](https://nodejs.org/en/) (SharePoint Framework currently requires version LTS 10.x)
